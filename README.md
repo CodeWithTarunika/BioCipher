@@ -14,7 +14,7 @@ BioCipher is a web application designed to harness advanced genomics and machine
 - Navigate to the input page on the BioCipher web application.
 - Enter the DNA sequence you want to analyze in the provided input field (the DNA sequence must be of 57 genomes length)
 - Click the "Submit" button to obtain instant predictions regarding the presence of E. Coli in the given sequence.
-- 
+  
 ## Webpage
 ![image](https://github.com/CodeWithTarunika/BioCipher/assets/124036153/a9aad897-b7f2-4ff2-bd6e-bca481759b33)
 ![image](https://github.com/CodeWithTarunika/BioCipher/assets/124036153/f5a2fdee-a867-4b83-9e04-40bd6cce30db)
